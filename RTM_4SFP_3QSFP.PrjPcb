@@ -326,10 +326,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FVAMRFAT
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for RTM_4SFP_3QSFP\RTM_4SFP_3QSFP.REP
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
